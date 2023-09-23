@@ -10,7 +10,8 @@
   - [Description](#description)
   - [Features](#features)
   - [Limitations](#limitations)
-  - [Example](#example)
+  - [An example explained](#an-example-explained)
+  - [How does the compression factor work?](#how-does-the-compression-factor-work)
   - [Demo](#demo)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -36,14 +37,19 @@ Quadtree Image Compression is a C program that enables you to perform image comp
 
 - The PPM image must be either 2x2, 4x4, 8x8, 16x16, 32x32, 64x64, 128x128, 256x256, 512x512, 1024x1024, etc.
 
-## Example
+## An example explained
 
-![Exeample explained]()
-![Compression factor]()
+![Exeample explained](https://github.com/DrescoAV/Image-Quadtree-Compression/blob/main/Demo/Example%20explained.png)
+
+## How does the compression factor work?
+
+![Compression factor](https://github.com/DrescoAV/Image-Quadtree-Compression/blob/main/Demo/Compression%20factor%20explained.png)
+
+![Compression factor example](https://github.com/DrescoAV/Image-Quadtree-Compression/blob/main/Demo/Compression%20factor%20difference.png)
 
 ## Demo
 
-![Quadtree Compression](link)
+![Quadtree Compression](https://github.com/DrescoAV/Image-Quadtree-Compression/blob/main/Demo/Demo.gif)
 
 ## Getting Started
 
@@ -62,7 +68,7 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone sa pun linku
+   git clone https://github.com/DrescoAV/Image-Quadtree-Compression
    ```
 
 2. Compile the program by typing "make" into your terminal.
